@@ -1,7 +1,6 @@
 # IEEE-Competition-Project
-<div style="text-align:center">
-    ![Customer Clustering segmentation image](https://cdnassets.hw.net/1b/c1/f12da9b44056b6d0f14fc149383a/customer-segmentation-web.jpg)
-</div>
+![44acdeea-ea8f-4828-bea9-669aa9ab52d9](https://github.com/MohamedEh-ab/IEEE-Customer-Segmentation/assets/109830342/23eeac55-cf93-4ba8-a2ce-62561030c0d6)
+
 Unsupervised machine learning project made via K-means and PCA using 'Online Retail Business' Data.  
 The goal is to segment customers into clusters, to help identify potential and loyal customers and make business-decisions related to it.  
 
